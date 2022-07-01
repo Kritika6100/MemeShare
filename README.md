@@ -5,4 +5,5 @@ An android app that lets you share memes among your friends.
 - Glide to load and cache images by URL
 
   ![](https://github.com/Kritika6100/MemeShare/blob/master/Screenshot_20220701-213724__01.jpg)
+  ![](Screenshot_20220701-213823__01.jpg)
 - 
