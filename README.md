@@ -3,4 +3,6 @@ I have used Kotlin for this App. Its core functioning is to show you different m
 An android app that lets you share memes among your friends.
 - Volley to make REST requests to the web service
 - Glide to load and cache images by URL
+
+  ![](https://github.com/Kritika6100/MemeShare/blob/master/Screenshot_20220701-213724__01.jpg)
 - 
