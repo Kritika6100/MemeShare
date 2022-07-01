@@ -4,6 +4,6 @@ An android app that lets you share memes among your friends.
 - Volley to make REST requests to the web service
 - Glide to load and cache images by URL
 
-  ![](https://github.com/Kritika6100/MemeShare/blob/master/Screenshot_20220701-213724__01.jpg)
-  ![](Screenshot_20220701-213823__01.jpg)
+  <img src="https://github.com/Kritika6100/MemeShare/blob/master/Screenshot_20220701-213724__01.jpg" width="200" height="400"/>
+
 - 
